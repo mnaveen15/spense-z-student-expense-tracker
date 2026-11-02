@@ -5,6 +5,7 @@ JavaScript Internship Mini Project
 
 ## Project Description
 Spense-Z is a simple student expense tracker built using HTML, CSS and JavaScript. It allows students to add expenses, view spending history, filter expenses by category, calculate total and average spending, and find affordable expenses.
+Spense-Z means Spend + Sense + Gen Z. It helps students track and understand their daily spending.
 
 ## Technologies Used
 - HTML5
